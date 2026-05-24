@@ -1,0 +1,6 @@
+com.oceanx.myorders.test.app-core-1.5.0-0 C:\Users\ahmed\.gradle\caches\8.8\transforms\b8103496af8d1f14778a297f619df64e\transformed\core-1.5.0\res
+com.oceanx.myorders.test.app-annotation-experimental-1.3.0-1 C:\Users\ahmed\.gradle\caches\8.8\transforms\ef9a2c72014cf837d21330d68fe7bf10\transformed\annotation-experimental-1.3.0\res
+com.oceanx.myorders.test.app-androidTest-2 D:\MyOrders_OceanX\MyOrders\app\build\generated\res\resValues\androidTest\debug
+com.oceanx.myorders.test.app-mergeDebugAndroidTestResources-3 D:\MyOrders_OceanX\MyOrders\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.oceanx.myorders.test.app-mergeDebugAndroidTestResources-4 D:\MyOrders_OceanX\MyOrders\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.oceanx.myorders.test.app-merged_res-5 D:\MyOrders_OceanX\MyOrders\app\build\intermediates\merged_res\debugAndroidTest

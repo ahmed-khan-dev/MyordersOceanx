@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/myOrdersFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.oceanx.myorders.ui.home.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/myOrdersFragment"
+        android:name="com.oceanx.myorders.ui.orders.MyOrdersFragment"
+        android:label="My Orders" />
+
+    <fragment
+        android:id="@+id/paymentsFragment"
+        android:name="com.oceanx.myorders.ui.payments.PaymentsFragment"
+        android:label="Payments" />
+
+    <fragment
+        android:id="@+id/accountFragment"
+        android:name="com.oceanx.myorders.ui.account.AccountFragment"
+        android:label="Account" />
+
+</navigation>

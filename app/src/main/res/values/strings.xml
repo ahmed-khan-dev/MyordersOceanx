@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyOrders</string>
+
+    <!-- Header -->
+    <string name="my_orders">My Orders</string>
+    <string name="orders_subtitle">View your completed trips here. You can\ndownload invoices or quickly book the same order again.</string>
+    <string name="truck_illustration_desc">Truck illustration</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search by Order ID / Location</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+
+    <!-- Tabs -->
+    <string name="tab_all_orders">All Orders</string>
+    <string name="tab_completed">Completed</string>
+    <string name="tab_cancelled">Cancelled</string>
+    <string name="tab_booked_again">Booked Again</string>
+
+    <!-- Info Banner -->
+    <string name="info_banner_text">यहाँ आपके सभी पिछले ऑर्डर दिखाए गए हैं।\nआप इनवॉइस डाउनलोड कर सकते हैं या उसी पते पर दोबारा ऑर्डर कर सकते हैं।</string>
+    <string name="info">Information</string>
+    <string name="close">Close</string>
+
+    <!-- Order Card -->
+    <string name="invoice">Invoice</string>
+    <string name="book_again">Book Again</string>
+    <string name="no_orders_found">No orders found</string>
+
+    <!-- Status -->
+    <string name="status_cancelled">CANCELLED</string>
+    <string name="status_completed">COMPLETED</string>
+    <string name="status_booked_again">BOOKED AGAIN</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_payments">Payments</string>
+    <string name="nav_account">Account</string>
+
+    <!-- Help -->
+    <string name="help">Help</string>
+</resources>

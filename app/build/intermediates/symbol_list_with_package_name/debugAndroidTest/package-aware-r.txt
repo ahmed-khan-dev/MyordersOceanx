@@ -1,0 +1,3 @@
+com.oceanx.myorders.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

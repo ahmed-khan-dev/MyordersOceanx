@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="90dp"
+    android:viewportWidth="120"
+    android:viewportHeight="90">
+    <!-- Truck Body -->
+    <path android:fillColor="#1A1A1A" android:pathData="M10,55 L10,30 L65,30 L65,55 Z"/>
+    <path android:fillColor="#FFC107" android:pathData="M65,55 L65,25 L95,25 L110,40 L110,55 Z"/>
+    <!-- Truck Cab Window -->
+    <path android:fillColor="#87CEEB" android:pathData="M68,28 L68,42 L107,42 L107,40 L95,28 Z"/>
+    <!-- Wheels -->
+    <path android:fillColor="#333333" android:pathData="M25,55 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0"/>
+    <path android:fillColor="#333333" android:pathData="M85,55 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0"/>
+    <!-- Wheel Hubs -->
+    <path android:fillColor="#CCCCCC" android:pathData="M25,55 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    <path android:fillColor="#CCCCCC" android:pathData="M85,55 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+</vector>

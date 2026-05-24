@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_filter.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\layout_fragment_placeholder.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\layout\\fragment_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_status_booked_again.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_status_booked_again.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_info_banner.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_info_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_truck_card.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_truck_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_status_completed.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_status_completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\layout_item_order.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\layout\\item_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_location_red.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_location_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_status_cancelled.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_status_cancelled.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_nav_home.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_nav_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_tab_selected.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_tab_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\layout_fragment_my_orders.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\layout\\fragment_my_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_button_invoice.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_button_invoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_filter_sort_btn.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_filter_sort_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_sort.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\color_bottom_nav_color_selector.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\color\\bottom_nav_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_location_green.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_location_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\menu_order_more_options_menu.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\menu\\order_more_options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_nav_orders.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_nav_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_button_book_again.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_button_book_again.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_more_vert.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_more_vert.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_nav_payments.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_nav_payments.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_nav_account.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_nav_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_search_bar.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_truck_illustration.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_truck_illustration.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_ic_headset.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\ic_headset.xml"
+    },
+    {
+        "merged": "com.oceanx.myorders.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "com.oceanx.myorders.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\drawable_bg_main_content.xml.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\drawable\\bg_main_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed\\.gradle\\daemon\\8.8\\com.oceanx.myorders.app-main-51:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

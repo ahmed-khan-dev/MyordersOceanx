@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary_yellow">#FFC107</color>
+    <color name="primary_yellow_dark">#F9A825</color>
+    <color name="primary_yellow_light">#FFF8E1</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B6B6B</color>
+    <color name="text_hint">#AAAAAA</color>
+
+    <!-- Background Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="background_grey">#F5F5F5</color>
+    <color name="divider_color">#EEEEEE</color>
+
+    <!-- Status Colors -->
+    <color name="status_cancelled_text">#D32F2F</color>
+    <color name="status_cancelled_bg">#FFEBEE</color>
+    <color name="status_cancelled_border">#FFCDD2</color>
+
+    <color name="status_completed_text">#1B5E20</color>
+    <color name="status_completed_bg">#E8F5E9</color>
+
+    <color name="status_booked_text">#1565C0</color>
+    <color name="status_booked_bg">#E3F2FD</color>
+
+    <!-- Info Banner -->
+    <color name="info_banner_bg">#EEF0FF</color>
+    <color name="info_icon_color">#5C6BC0</color>
+
+    <!-- Bottom Nav -->
+    <color name="bottom_nav_active">#FFC107</color>
+    <color name="bottom_nav_inactive">#9E9E9E</color>
+
+    <!-- Tab Colors -->
+    <color name="tab_unselected_text">#757575</color>
+
+    <!-- Button Colors -->
+    <color name="black">#000000</color>
+    <color name="button_invoice_border">#CCCCCC</color>
+
+    <!-- Location Pin Colors -->
+    <color name="location_green">#4CAF50</color>
+    <color name="location_red">#F44336</color>
+</resources>

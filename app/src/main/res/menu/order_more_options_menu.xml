@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_view_details"
+        android:title="View Details" />
+
+    <item
+        android:id="@+id/action_download_invoice"
+        android:title="Download Invoice" />
+
+    <item
+        android:id="@+id/action_book_again"
+        android:title="Book Again" />
+
+</menu>
